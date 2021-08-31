@@ -1,0 +1,29 @@
+{
+    "name": "HASH",
+    "type": "BEP20",
+    "symbol": "HASH",
+    "decimals": 18,
+    "website": "https://rocket.hashbon.com/",
+    "description": "HASH Token is the fuel for the Hashbon Rocket. HASH allows: liquidity providers to make swaps paying fees to arbiters; arbiters to approve transactions and get a voting power. Further, HASH will be designed to issue DeFi bonds or launch a crowdsale.",
+    "explorer": "https://bscscan.com/token/0xeb1112ac78d537853150e2a07e8b765e29d3f019",
+    "status": "active",
+    "id": "0xEB1112Ac78D537853150E2a07E8b765E29d3F019",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/hash-token/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/hashbon_chat"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/hashbon"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/hashbon/"
+        }
+    ]
+}

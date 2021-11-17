@@ -4,7 +4,7 @@
     "symbol": "HASH",
     "decimals": 18,
     "website": "https://rocket.hashbon.com/",
-    "description": "HASH Token is the fuel for the Hashbon Rocket. HASH allows: liquidity providers to make swaps paying fees to arbiters; arbiters to approve transactions and get a voting power. Further, HASH will be designed to issue DeFi bonds or launch a crowdsale.",
+    "description": "HASH is a utility BEP-20 and ERC-20 token and fuel of Hashbon FiRe crypto payment ecosystem powered by both DeFi and CeFi products. In September 2021, Hashbon introduced the Hashbon Rocket CDEX platform that enables cross-chain token swaps in a DeFi manner. Hashbon’s vision is to ease crypto payment processing among users and businesses and make crypto a smooth, transparent and everyday payment method. HASH token will fuel Hashbon payment ecosystem for growing and granting more convenient and frictionless opportunities to crypto enthusiasts.",
     "explorer": "https://bscscan.com/token/0xeb1112ac78d537853150e2a07e8b765e29d3f019",
     "status": "active",
     "id": "0xEB1112Ac78D537853150E2a07E8b765E29d3F019",
